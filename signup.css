@@ -2,12 +2,12 @@ body
 {
 	margin: 0;
 	padding: 0;
-	background-image: url(si.png);
+	background-image: url(si.jpg);
 	background-repeat: no-repeat;
 	position: relative;
 	background-size: cover;
-	border-radius:60% 60%;
-	backdrop-filter: blur(30px);
+	border-radius:0%;
+	backdrop-filter: blur(15px);
 
 }
 .container
@@ -28,6 +28,7 @@ h2
 		margin: 0px;
 		color: white;
 		text-align: center;
+		color: greenyellow;
 
 }
 .Email input
