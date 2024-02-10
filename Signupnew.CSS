@@ -1,0 +1,194 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color: red;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	min-height: 100vh;
+	display: flex;
+	background: url(books.jpg);
+	backdrop-filter: blur(10px);
+	
+}
+.box
+{	
+	background-color: #ff8c00;
+	width: 670px;
+	height: 650px;	
+	margin: 20px;
+	padding: 10px;
+	border-radius: 30px;
+	position: relative;
+	
+
+
+}
+
+.box input
+{		
+	background-color: pink;
+	width: 5%;
+	height: 30%;
+	margin: 10px;
+	padding:10px;
+	border-radius: 10px;
+	border: 1px solid green;
+}
+.container
+{	
+	background-color: blueviolet;	
+	width: 60%;
+	height: 20%;
+	border-radius: 30px;
+		position: relative;
+
+
+}
+h1
+{
+	text-align:left;
+	color: navy;
+	
+}
+h2
+{
+	text-align:left;
+	color: navy;
+	
+}
+h3
+{
+	text-align:right;
+	color: white;
+	position: absolute;
+	
+}
+label input
+{
+	display: flex;
+}
+.a input
+{
+	display: flex;
+	width: 120%;
+
+}
+.a label
+{
+	margin: 12px;
+
+}
+.b input
+{
+	display: flex;
+	width: 120%;		
+
+}
+.b label
+{
+	margin: 12px;
+
+}
+.z
+{
+	display: flex;
+	position: relative;
+}
+.y
+{
+	display: flex;
+	position: relative;
+}
+.c input
+{
+	display: flex;
+	width: 120%;
+
+}
+.c label
+{
+	margin: 12px;
+
+}
+.d input
+{
+	display: flex;
+	width: 120%;
+
+}
+.d label
+{
+	margin: 12px;
+
+}
+.e input
+{
+	display: flex;
+	width: 120%;
+
+}
+.e label
+{
+	margin: 12px;
+
+}
+.f input
+{
+	display: flex;
+	width: 120%;
+
+}
+.f label
+{
+	margin: 12px;
+
+}
+.x
+{
+	text-align: right;
+
+}
+img
+{
+	width: 60px;
+	height: 60px;
+}
+.ca button
+{
+	border-radius: 10px;
+	width: 41%;
+	margin: 10px;
+	font-size: 14px;
+	color: white;
+	background-color: navy;
+	padding: 10px;
+
+}
+
+.sf button
+{
+	border-radius: 10px;
+	width: 41%;
+	margin: 10px;
+	font-size: 14px;
+	color: navy;
+	background-color: white;
+	padding: 10px;
+
+}
+.st button
+{
+	border-radius: 10px;
+	width: 41%;
+	margin: 10px;
+	font-size: 14px;
+	color: navy;
+	background-color: white;
+	padding: 10px;
+}
+h7{
+	color: white;
+	font-size: 13px;
+}
