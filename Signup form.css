@@ -1,0 +1,125 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background: url(img2.jpg);
+	background-size: cover;
+
+}
+h1
+{
+	padding: 0;
+	margin: 0;
+	color: navy;
+	background-color: skyblue;
+}
+
+.cate
+{
+		margin: 0px;
+		padding: 30px;
+		background-color: orange;
+		width: 720px;
+		height: 455px;
+		border-radius: 30px;
+		
+
+}
+.container
+{
+	justify-content: center;
+	display: flex;	
+}	
+
+
+
+.txt input
+{
+	padding: 0;
+	margin: 0;
+	width: 200px;
+	height: 30px;
+	border-radius: 10px;
+	color: navy;
+	font-size: 16px;
+	text-align: center;
+
+
+}
+
+h2
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: red;
+	width: 15%;
+}
+label
+{
+	width: 150px;
+	display: inline-block;	
+	text-align: left;
+}
+.cbox input
+{
+height: 15px;
+width: 20px;
+text-align: center;
+}
+.cbox
+{
+
+padding: 10px;
+margin: 0px;
+
+}
+
+.btn1 input	
+{
+
+	background-color: blue;
+	color: white;
+}
+.btn2 input	
+{
+
+	display: inline-block;
+	color: navy;
+}
+.btn2
+{
+	
+	
+}
+
+.btn2 i
+{
+
+margin: -195px;
+color: green;
+}
+.btn3 i
+{
+
+margin: -195px;
+color: green;
+
+}
+p
+{
+color: white;
+
+}
+h3{
+	color: navy;
+	font-size: 24px;
+}
+.login
+{
+	text-align: right	;
+}
+
